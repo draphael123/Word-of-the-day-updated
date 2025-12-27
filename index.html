@@ -7,15 +7,16 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+    <div class="background-animation"></div>
     <div class="container">
-        <header>
-            <h1>Word of the Day</h1>
+        <header class="header-animated">
+            <h1 class="title-glow">Word of the Day</h1>
             <p class="subtitle">Expand your vocabulary one word at a time</p>
             <p class="date-display" id="dateDisplay"></p>
         </header>
 
         <main>
-            <div class="word-card">
+            <div class="word-card animated-card">
                 <div class="word-header">
                     <h2 class="word" id="word"></h2>
                     <span class="pronunciation" id="pronunciation"></span>
@@ -23,24 +24,38 @@
 
                 <div class="word-details">
                     <section class="detail-section">
-                        <h3>Origin</h3>
+                        <h3>🌟 Origin</h3>
                         <p id="origin"></p>
                     </section>
 
                     <section class="detail-section">
-                        <h3>Use Cases</h3>
+                        <h3>💡 Use Cases</h3>
                         <div id="useCases"></div>
                     </section>
 
                     <section class="detail-section">
-                        <h3>How It Makes You Feel</h3>
+                        <h3>✨ How It Makes You Feel</h3>
                         <p id="feeling"></p>
                     </section>
                 </div>
 
                 <button class="next-word-btn" id="nextWordBtn" onclick="loadRandomWord()">
-                    View Another Word
+                    <span>🎲 View Another Word</span>
                 </button>
+            </div>
+
+            <div class="tips-card animated-card">
+                <div class="tips-header">
+                    <h2>💭 Daily Life Tips</h2>
+                    <p class="tips-subtitle">Wisdom for your everyday journey</p>
+                </div>
+                <div class="tip-content" id="dailyTip">
+                    <div class="tip-icon">💡</div>
+                    <p class="tip-text" id="tipText">Loading...</p>
+                    <button class="next-tip-btn" onclick="loadNextTip()">
+                        <span>🔄 Next Tip</span>
+                    </button>
+                </div>
             </div>
         </main>
 
