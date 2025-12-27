@@ -1,0 +1,1906 @@
+[
+  {
+    "word": "Serendipity",
+    "pronunciation": "/ˌserənˈdipitē/",
+    "origin": "Coined by Horace Walpole in 1754, derived from the Persian fairy tale 'The Three Princes of Serendip' (Serendip was the old name for Sri Lanka). The princes made discoveries by accident and sagacity.",
+    "useCases": [
+      {
+        "context": "Everyday life",
+        "example": "Finding your lost keys while looking for something else is pure serendipity."
+      },
+      {
+        "context": "Science",
+        "example": "Penicillin was discovered through serendipity when Alexander Fleming noticed mold had contaminated his petri dish."
+      }
+    ],
+    "feeling": "Joyful, magical, and optimistic. This word evokes a sense of delightful surprise and unexpected good fortune."
+  },
+  {
+    "word": "Ephemeral",
+    "pronunciation": "/əˈfem(ə)rəl/",
+    "origin": "From Greek 'ephēmeros' meaning 'lasting only a day', from 'epi-' (upon) + 'hēmera' (day).",
+    "useCases": [
+      {
+        "context": "Nature",
+        "example": "The ephemeral beauty of cherry blossoms reminds us to appreciate moments while they last."
+      },
+      {
+        "context": "Technology",
+        "example": "Ephemeral messaging apps delete messages after they've been viewed."
+      }
+    ],
+    "feeling": "Nostalgic and bittersweet. This word carries a sense of fleeting beauty and the poignant awareness of impermanence."
+  },
+  {
+    "word": "Mellifluous",
+    "pronunciation": "/məˈliflo͞oəs/",
+    "origin": "From Latin 'mellifluus' meaning 'flowing like honey', from 'mel' (honey) + 'fluere' (to flow).",
+    "useCases": [
+      {
+        "context": "Music",
+        "example": "The singer's mellifluous voice captivated the entire audience."
+      },
+      {
+        "context": "Literature",
+        "example": "The poet's mellifluous verses seemed to dance off the page."
+      }
+    ],
+    "feeling": "Smooth, soothing, and harmonious. This word itself sounds sweet and pleasing, creating a sense of auditory pleasure."
+  },
+  {
+    "word": "Resilient",
+    "pronunciation": "/rəˈzilyənt/",
+    "origin": "From Latin 'resilire' meaning 'to leap back' or 'rebound', from 're-' (back) + 'salire' (to jump).",
+    "useCases": [
+      {
+        "context": "Psychology",
+        "example": "Children who grow up in difficult circumstances often show remarkable resilience."
+      },
+      {
+        "context": "Materials science",
+        "example": "This resilient rubber can withstand extreme temperatures without cracking."
+      }
+    ],
+    "feeling": "Strong, determined, and hopeful. This word conveys power, adaptability, and the capacity to overcome adversity."
+  },
+  {
+    "word": "Quintessential",
+    "pronunciation": "/ˌkwin(t)əˈsen(t)SHəl/",
+    "origin": "From Medieval Latin 'quinta essentia' meaning 'fifth essence'. In ancient philosophy, this was the purest form of matter beyond the four elements (earth, air, fire, water).",
+    "useCases": [
+      {
+        "context": "Cultural description",
+        "example": "Paris is considered the quintessential romantic destination."
+      },
+      {
+        "context": "Character traits",
+        "example": "She was the quintessential host, making everyone feel welcome."
+      }
+    ],
+    "feeling": "Perfect, refined, and exemplary. This word suggests the highest standard and most perfect example of something."
+  },
+  {
+    "word": "Petrichor",
+    "pronunciation": "/ˈpetrəˌkôr/",
+    "origin": "Coined in 1964 by Australian scientists from Greek 'petra' (stone) + 'ichor' (the fluid that flows in the veins of gods). It refers to the earthy scent produced when rain falls on dry soil.",
+    "useCases": [
+      {
+        "context": "Weather description",
+        "example": "After weeks of drought, the petrichor filled the air as the first drops fell."
+      },
+      {
+        "context": "Poetry",
+        "example": "The petrichor awakened memories of childhood summers."
+      }
+    ],
+    "feeling": "Nostalgic, refreshing, and deeply calming. This word evokes the sensory pleasure of nature's renewal after dry weather."
+  },
+  {
+    "word": "Eloquent",
+    "pronunciation": "/ˈeləkwənt/",
+    "origin": "From Latin 'eloquens' meaning 'speaking out', from 'e-' (out) + 'loqui' (to speak).",
+    "useCases": [
+      {
+        "context": "Public speaking",
+        "example": "Her eloquent defense of the policy convinced many skeptics."
+      },
+      {
+        "context": "Writing",
+        "example": "The author's eloquent prose brought the historical period to life."
+      }
+    ],
+    "feeling": "Impressive, articulate, and persuasive. This word suggests clear, powerful, and beautifully expressed communication."
+  },
+  {
+    "word": "Ineffable",
+    "pronunciation": "/inˈefəbəl/",
+    "origin": "From Latin 'ineffabilis' meaning 'unutterable', from 'in-' (not) + 'effari' (to speak out).",
+    "useCases": [
+      {
+        "context": "Spiritual experiences",
+        "example": "The beauty of the mountain sunset was ineffable, beyond description."
+      },
+      {
+        "context": "Emotions",
+        "example": "The ineffable joy of holding her newborn child overwhelmed her."
+      }
+    ],
+    "feeling": "Profound, transcendent, and awe-inspiring. This word acknowledges experiences so deep they transcend language."
+  },
+  {
+    "word": "Ubiquitous",
+    "pronunciation": "/yo͞oˈbikwətəs/",
+    "origin": "From Latin 'ubique' meaning 'everywhere', from 'ubi' (where).",
+    "useCases": [
+      {
+        "context": "Technology",
+        "example": "Smartphones have become ubiquitous in modern society."
+      },
+      {
+        "context": "Nature",
+        "example": "Dandelions are ubiquitous in springtime lawns."
+      }
+    ],
+    "feeling": "Pervasive and omnipresent. This word suggests something so common it's found everywhere."
+  },
+  {
+    "word": "Luminous",
+    "pronunciation": "/ˈlo͞omənəs/",
+    "origin": "From Latin 'luminosus' meaning 'full of light', from 'lumen' (light).",
+    "useCases": [
+      {
+        "context": "Visual description",
+        "example": "The luminous moon cast a silver glow across the lake."
+      },
+      {
+        "context": "Personality",
+        "example": "Her luminous smile brightened everyone's day."
+      }
+    ],
+    "feeling": "Radiant, bright, and inspiring. This word conveys beauty, clarity, and the power to illuminate."
+  },
+  {
+    "word": "Enigmatic",
+    "pronunciation": "/ˌeniɡˈmatik/",
+    "origin": "From Greek 'ainigma' meaning 'riddle', from 'ainissesthai' (to speak in riddles).",
+    "useCases": [
+      {
+        "context": "Personality",
+        "example": "The enigmatic artist rarely gave interviews."
+      },
+      {
+        "context": "Phenomena",
+        "example": "The origins of the ancient monument remain enigmatic to archaeologists."
+      }
+    ],
+    "feeling": "Mysterious, intriguing, and puzzling. This word suggests depth and complexity that invites curiosity."
+  },
+  {
+    "word": "Resplendent",
+    "pronunciation": "/rəˈsplendənt/",
+    "origin": "From Latin 'resplendere' meaning 'to shine brightly', from 're-' (intensive) + 'splendere' (to shine).",
+    "useCases": [
+      {
+        "context": "Appearance",
+        "example": "The bride looked resplendent in her white gown."
+      },
+      {
+        "context": "Nature",
+        "example": "The resplendent sunset painted the sky in shades of gold and crimson."
+      }
+    ],
+    "feeling": "Magnificent, dazzling, and splendid. This word conveys extraordinary beauty and brilliance."
+  },
+  {
+    "word": "Pernicious",
+    "pronunciation": "/pərˈniSHəs/",
+    "origin": "From Latin 'perniciosus' meaning 'destructive', from 'pernicies' (destruction), from 'per-' (thoroughly) + 'nex' (death).",
+    "useCases": [
+      {
+        "context": "Social issues",
+        "example": "Rumors can have a pernicious effect on someone's reputation."
+      },
+      {
+        "context": "Health",
+        "example": "The pernicious disease spread rapidly through the community."
+      }
+    ],
+    "feeling": "Dangerous, harmful, and insidious. This word carries a sense of subtle but serious danger."
+  },
+  {
+    "word": "Voracious",
+    "pronunciation": "/vôˈrāSHəs/",
+    "origin": "From Latin 'vorax' meaning 'devouring', from 'vorare' (to devour).",
+    "useCases": [
+      {
+        "context": "Reading",
+        "example": "She was a voracious reader, finishing several books a week."
+      },
+      {
+        "context": "Appetite",
+        "example": "The teenager had a voracious appetite after football practice."
+      }
+    ],
+    "feeling": "Intense, eager, and insatiable. This word suggests an enthusiastic and almost consuming passion."
+  },
+  {
+    "word": "Melancholy",
+    "pronunciation": "/ˈmelənˌkälē/",
+    "origin": "From Greek 'melankholia' meaning 'black bile', from 'melas' (black) + 'kholē' (bile). Ancient medicine believed excess black bile caused sadness.",
+    "useCases": [
+      {
+        "context": "Emotion",
+        "example": "The rainy afternoon brought on a sense of melancholy."
+      },
+      {
+        "context": "Music",
+        "example": "The melancholy melody evoked feelings of longing and nostalgia."
+      }
+    ],
+    "feeling": "Sorrowful, contemplative, and wistful. This word describes a gentle, pensive sadness, not sharp or acute."
+  },
+  {
+    "word": "Benevolent",
+    "pronunciation": "/bəˈnevələnt/",
+    "origin": "From Latin 'benevolens' meaning 'wishing well', from 'bene' (well) + 'volens' (wishing).",
+    "useCases": [
+      {
+        "context": "Character",
+        "example": "The benevolent king shared his wealth with the poor."
+      },
+      {
+        "context": "Actions",
+        "example": "Their benevolent organization helped thousands of families."
+      }
+    ],
+    "feeling": "Kind, generous, and warm-hearted. This word conveys genuine care and goodwill toward others."
+  },
+  {
+    "word": "Paradigm",
+    "pronunciation": "/ˈperəˌdīm/",
+    "origin": "From Greek 'paradeigma' meaning 'pattern' or 'model', from 'para-' (beside) + 'deiknynai' (to show).",
+    "useCases": [
+      {
+        "context": "Science",
+        "example": "Einstein's theory of relativity represented a paradigm shift in physics."
+      },
+      {
+        "context": "Business",
+        "example": "The company's success created a new paradigm for remote work."
+      }
+    ],
+    "feeling": "Revolutionary, foundational, and influential. This word suggests a fundamental model or framework."
+  },
+  {
+    "word": "Solitude",
+    "pronunciation": "/ˈsäləˌto͞od/",
+    "origin": "From Latin 'solitudo' meaning 'loneliness', from 'solus' (alone).",
+    "useCases": [
+      {
+        "context": "Personal time",
+        "example": "She cherished her morning solitude before the household awoke."
+      },
+      {
+        "context": "Nature",
+        "example": "The mountain cabin offered perfect solitude for reflection."
+      }
+    ],
+    "feeling": "Peaceful, contemplative, and sometimes lonely. This word can suggest either welcome isolation or unwanted loneliness."
+  },
+  {
+    "word": "Meticulous",
+    "pronunciation": "/məˈtikyələs/",
+    "origin": "From Latin 'metus' (fear) through 'meticulosus' meaning 'fearful' or 'timid', later evolving to mean 'careful'.",
+    "useCases": [
+      {
+        "context": "Work",
+        "example": "The meticulous craftsman spent hours on each detail."
+      },
+      {
+        "context": "Research",
+        "example": "Her meticulous analysis uncovered errors others had missed."
+      }
+    ],
+    "feeling": "Careful, precise, and thorough. This word suggests painstaking attention to detail."
+  },
+  {
+    "word": "Magnanimous",
+    "pronunciation": "/maɡˈnanəməs/",
+    "origin": "From Latin 'magnanimus' meaning 'great-souled', from 'magnus' (great) + 'animus' (soul, spirit).",
+    "useCases": [
+      {
+        "context": "Forgiveness",
+        "example": "Despite the betrayal, she was magnanimous in victory."
+      },
+      {
+        "context": "Generosity",
+        "example": "His magnanimous donation saved the local theater."
+      }
+    ],
+    "feeling": "Noble, generous, and big-hearted. This word conveys graciousness and the ability to rise above pettiness."
+  },
+  {
+    "word": "Intrepid",
+    "pronunciation": "/inˈtrepəd/",
+    "origin": "From Latin 'intrepidus' meaning 'unfearing', from 'in-' (not) + 'trepidus' (alarmed, trembling).",
+    "useCases": [
+      {
+        "context": "Exploration",
+        "example": "The intrepid explorer ventured into uncharted territory."
+      },
+      {
+        "context": "Journalism",
+        "example": "Intrepid reporters covered the conflict from the front lines."
+      }
+    ],
+    "feeling": "Brave, fearless, and adventurous. This word suggests courage and boldness in facing challenges."
+  },
+  {
+    "word": "Prodigious",
+    "pronunciation": "/prəˈdijəs/",
+    "origin": "From Latin 'prodigiosus' meaning 'portentous' or 'unnatural', from 'prodigium' (portent, omen).",
+    "useCases": [
+      {
+        "context": "Talent",
+        "example": "The child showed prodigious musical ability at age five."
+      },
+      {
+        "context": "Size or amount",
+        "example": "A prodigious amount of research went into the project."
+      }
+    ],
+    "feeling": "Extraordinary, impressive, and remarkable. This word suggests something exceptional and outstanding."
+  },
+  {
+    "word": "Ethereal",
+    "pronunciation": "/əˈTHirēəl/",
+    "origin": "From Greek 'aitherios' meaning 'of the upper air', from 'aither' (upper air, sky).",
+    "useCases": [
+      {
+        "context": "Beauty",
+        "example": "The dancer moved with an ethereal grace."
+      },
+      {
+        "context": "Atmosphere",
+        "example": "The ethereal music created a dreamlike ambiance."
+      }
+    ],
+    "feeling": "Delicate, otherworldly, and heavenly. This word suggests something light, airy, and almost spiritual in its beauty."
+  },
+  {
+    "word": "Tenacious",
+    "pronunciation": "/təˈnāSHəs/",
+    "origin": "From Latin 'tenax' meaning 'holding fast', from 'tenere' (to hold).",
+    "useCases": [
+      {
+        "context": "Persistence",
+        "example": "Her tenacious pursuit of justice finally paid off."
+      },
+      {
+        "context": "Memory",
+        "example": "He had a tenacious memory for faces and names."
+      }
+    ],
+    "feeling": "Determined, persistent, and unyielding. This word conveys strength of will and refusal to give up."
+  },
+  {
+    "word": "Vivacious",
+    "pronunciation": "/vəˈvāSHəs/",
+    "origin": "From Latin 'vivax' meaning 'long-lived' or 'lively', from 'vivere' (to live).",
+    "useCases": [
+      {
+        "context": "Personality",
+        "example": "Her vivacious personality lit up every room she entered."
+      },
+      {
+        "context": "Performance",
+        "example": "The vivacious dance routine energized the audience."
+      }
+    ],
+    "feeling": "Energetic, lively, and spirited. This word suggests enthusiasm, animation, and zest for life."
+  },
+  {
+    "word": "Zenith",
+    "pronunciation": "/ˈzēnəTH/",
+    "origin": "From Arabic 'samt ar-ras' meaning 'way over the head', later corrupted to 'zenith' in Medieval Latin.",
+    "useCases": [
+      {
+        "context": "Career",
+        "example": "The award marked the zenith of her acting career."
+      },
+      {
+        "context": "Astronomy",
+        "example": "The sun reaches its zenith at noon."
+      }
+    ],
+    "feeling": "Peak, summit, and highest point. This word conveys achievement, culmination, and the pinnacle of success."
+  },
+  {
+    "word": "Nadir",
+    "pronunciation": "/ˈnādər/",
+    "origin": "From Arabic 'nazir' meaning 'opposite to the zenith', referring to the point directly below an observer.",
+    "useCases": [
+      {
+        "context": "Emotional state",
+        "example": "The diagnosis marked the nadir of her despair."
+      },
+      {
+        "context": "Astronomy",
+        "example": "The star's position was at its nadir below the horizon."
+      }
+    ],
+    "feeling": "Lowest, deepest, and most desolate. This word suggests the absolute bottom point of a situation or emotion."
+  },
+  {
+    "word": "Eloquent",
+    "pronunciation": "/ˈeləkwənt/",
+    "origin": "From Latin 'eloquens' meaning 'speaking out', from 'e-' (out) + 'loqui' (to speak).",
+    "useCases": [
+      {
+        "context": "Speech",
+        "example": "His eloquent address moved the entire assembly."
+      },
+      {
+        "context": "Silence",
+        "example": "Her eloquent silence spoke volumes about her disappointment."
+      }
+    ],
+    "feeling": "Articulate, expressive, and powerful. This word suggests clear, persuasive, and beautifully expressed communication."
+  },
+  {
+    "word": "Laconic",
+    "pronunciation": "/ləˈkänik/",
+    "origin": "From Greek 'Lakonikos' meaning 'Laconian' (from Laconia, the region of Sparta). Spartans were known for their brief, terse speech.",
+    "useCases": [
+      {
+        "context": "Communication",
+        "example": "His laconic reply of 'No' ended the discussion."
+      },
+      {
+        "context": "Style",
+        "example": "The author's laconic prose conveyed maximum meaning with minimal words."
+      }
+    ],
+    "feeling": "Concise, brief, and pointed. This word suggests economy of words and powerful understatement."
+  },
+  {
+    "word": "Ebullient",
+    "pronunciation": "/iˈbo͞olyənt/",
+    "origin": "From Latin 'ebullire' meaning 'to bubble up', from 'e-' (out) + 'bullire' (to boil).",
+    "useCases": [
+      {
+        "context": "Emotion",
+        "example": "The crowd was ebullient after their team's victory."
+      },
+      {
+        "context": "Personality",
+        "example": "Her ebullient enthusiasm was contagious."
+      }
+    ],
+    "feeling": "Enthusiastic, cheerful, and bubbling over with excitement. This word conveys overflowing joy and high spirits."
+  },
+  {
+    "word": "Omnipotent",
+    "pronunciation": "/ämˈnipətənt/",
+    "origin": "From Latin 'omnipotens' meaning 'all-powerful', from 'omnis' (all) + 'potens' (powerful).",
+    "useCases": [
+      {
+        "context": "Religion",
+        "example": "Many religions describe God as omnipotent."
+      },
+      {
+        "context": "Metaphorical",
+        "example": "The CEO seemed omnipotent in his control of the company."
+      }
+    ],
+    "feeling": "All-powerful, unlimited, and supreme. This word suggests absolute power and authority."
+  },
+  {
+    "word": "Aesthetic",
+    "pronunciation": "/esˈTHetik/",
+    "origin": "From Greek 'aisthetikos' meaning 'of sense perception', from 'aisthanesthai' (to perceive).",
+    "useCases": [
+      {
+        "context": "Design",
+        "example": "The minimalist aesthetic of the room created a sense of calm."
+      },
+      {
+        "context": "Art",
+        "example": "Her aesthetic sensibility influenced every aspect of her work."
+      }
+    ],
+    "feeling": "Beautiful, tasteful, and artistic. This word relates to beauty, art, and visual appeal."
+  },
+  {
+    "word": "Juxtaposition",
+    "pronunciation": "/ˌjəkstəpəˈziSHən/",
+    "origin": "From French 'juxtaposition', from Latin 'iuxta' (beside) + 'positio' (placing).",
+    "useCases": [
+      {
+        "context": "Art",
+        "example": "The artist's juxtaposition of old and new created a striking contrast."
+      },
+      {
+        "context": "Literature",
+        "example": "The novel's juxtaposition of past and present highlighted the characters' growth."
+      }
+    ],
+    "feeling": "Contrasting, thought-provoking, and revealing. This word suggests placing contrasting elements side by side for effect."
+  },
+  {
+    "word": "Idiosyncrasy",
+    "pronunciation": "/ˌidēəˈsiNGkrəsē/",
+    "origin": "From Greek 'idiosynkrasia' meaning 'peculiar temperament', from 'idios' (one's own) + 'synkrasis' (mixture).",
+    "useCases": [
+      {
+        "context": "Personality",
+        "example": "Her habit of organizing books by color was just one of her many idiosyncrasies."
+      },
+      {
+        "context": "Language",
+        "example": "The regional dialect had several linguistic idiosyncrasies."
+      }
+    ],
+    "feeling": "Quirky, distinctive, and unique. This word suggests charming or interesting peculiarities."
+  },
+  {
+    "word": "Equanimity",
+    "pronunciation": "/ˌekwəˈnimitē/",
+    "origin": "From Latin 'aequanimitas' meaning 'calmness of mind', from 'aequus' (even) + 'animus' (mind).",
+    "useCases": [
+      {
+        "context": "Emotional control",
+        "example": "She faced the crisis with remarkable equanimity."
+      },
+      {
+        "context": "Philosophy",
+        "example": "Buddhist meditation aims to cultivate equanimity."
+      }
+    ],
+    "feeling": "Calm, composed, and balanced. This word suggests mental stability and emotional composure under pressure."
+  },
+  {
+    "word": "Pragmatic",
+    "pronunciation": "/praɡˈmatik/",
+    "origin": "From Greek 'pragmatikos' meaning 'skilled in business', from 'pragma' (deed, fact).",
+    "useCases": [
+      {
+        "context": "Problem-solving",
+        "example": "She took a pragmatic approach to the budget crisis."
+      },
+      {
+        "context": "Philosophy",
+        "example": "Pragmatic philosophers focus on practical consequences rather than abstract principles."
+      }
+    ],
+    "feeling": "Practical, realistic, and sensible. This word suggests a focus on what works rather than theoretical ideals."
+  },
+  {
+    "word": "Sycophant",
+    "pronunciation": "/ˈsikəfənt/",
+    "origin": "From Greek 'sykophantes' meaning 'one who shows figs', possibly referring to those who informed on fig-smugglers, or 'fig-shower' as an obscene gesture. Evolved to mean 'flatterer'.",
+    "useCases": [
+      {
+        "context": "Social behavior",
+        "example": "The sycophant constantly praised his boss to gain favor."
+      },
+      {
+        "context": "Politics",
+        "example": "The politician was surrounded by sycophants who never questioned his decisions."
+      }
+    ],
+    "feeling": "Servile, insincere, and obsequious. This word suggests flattery motivated by self-interest."
+  },
+  {
+    "word": "Panacea",
+    "pronunciation": "/ˌpanəˈsēə/",
+    "origin": "From Greek 'panakeia' meaning 'all-healing', from 'pan' (all) + 'akos' (remedy). In Greek mythology, Panacea was the goddess of universal remedy.",
+    "useCases": [
+      {
+        "context": "Medicine",
+        "example": "Scientists continue searching for a panacea to cure all diseases."
+      },
+      {
+        "context": "Problem-solving",
+        "example": "Education is often touted as a panacea for social ills, though reality is more complex."
+      }
+    ],
+    "feeling": "Universal, all-encompassing, and ideal. This word suggests a cure-all or solution to all problems."
+  },
+  {
+    "word": "Esoteric",
+    "pronunciation": "/ˌesəˈterik/",
+    "origin": "From Greek 'esoterikos' meaning 'belonging to an inner circle', from 'esotero' (comparative of 'eso' meaning 'within').",
+    "useCases": [
+      {
+        "context": "Knowledge",
+        "example": "The ancient text contained esoteric knowledge known only to initiates."
+      },
+      {
+        "context": "Language",
+        "example": "The professor used esoteric terminology that confused most students."
+      }
+    ],
+    "feeling": "Obscure, specialized, and mysterious. This word suggests knowledge accessible only to a select few."
+  },
+  {
+    "word": "Capricious",
+    "pronunciation": "/kəˈpriSHəs/",
+    "origin": "From Italian 'capriccioso' meaning 'whimsical', possibly from 'capo' (head) + 'riccio' (hedgehog), suggesting a head with hair standing on end like a hedgehog's spines.",
+    "useCases": [
+      {
+        "context": "Weather",
+        "example": "The capricious weather shifted from sunny to stormy without warning."
+      },
+      {
+        "context": "Behavior",
+        "example": "Her capricious mood swings made her difficult to work with."
+      }
+    ],
+    "feeling": "Unpredictable, whimsical, and changeable. This word suggests sudden, unpredictable changes in mood or behavior."
+  },
+  {
+    "word": "Proclivity",
+    "pronunciation": "/prəˈklivitē/",
+    "origin": "From Latin 'proclivitas' meaning 'a tendency', from 'proclivis' (sloping forward), from 'pro-' (forward) + 'clivus' (slope).",
+    "useCases": [
+      {
+        "context": "Behavior",
+        "example": "He had a proclivity for getting into trouble."
+      },
+      {
+        "context": "Talent",
+        "example": "She showed an early proclivity for mathematics."
+      }
+    ],
+    "feeling": "Natural, inclined, and predisposed. This word suggests an inherent tendency or natural inclination."
+  },
+  {
+    "word": "Inequity",
+    "pronunciation": "/inˈekwitē/",
+    "origin": "From Latin 'iniquitas' meaning 'unevenness' or 'unfairness', from 'in-' (not) + 'aequus' (equal).",
+    "useCases": [
+      {
+        "context": "Social justice",
+        "example": "The organization works to address economic inequity in education."
+      },
+      {
+        "context": "Legal",
+        "example": "The court ruling highlighted systemic inequities in the justice system."
+      }
+    ],
+    "feeling": "Unfair, unjust, and troubling. This word suggests systemic unfairness and lack of equality."
+  },
+  {
+    "word": "Magnificent",
+    "pronunciation": "/maɡˈnifəsənt/",
+    "origin": "From Latin 'magnificus' meaning 'doing great things', from 'magnus' (great) + 'facere' (to make, do).",
+    "useCases": [
+      {
+        "context": "Architecture",
+        "example": "The magnificent cathedral took over a century to build."
+      },
+      {
+        "context": "Achievement",
+        "example": "She made a magnificent recovery after the surgery."
+      }
+    ],
+    "feeling": "Grand, impressive, and splendid. This word conveys extraordinary beauty, size, or excellence."
+  },
+  {
+    "word": "Cacophony",
+    "pronunciation": "/kəˈkäfənē/",
+    "origin": "From Greek 'kakophonia' meaning 'bad sound', from 'kakos' (bad) + 'phone' (sound).",
+    "useCases": [
+      {
+        "context": "Sound",
+        "example": "The cacophony of car horns filled the busy intersection."
+      },
+      {
+        "context": "Music",
+        "example": "The avant-garde piece deliberately used cacophony to challenge listeners."
+      }
+    ],
+    "feeling": "Harsh, discordant, and jarring. This word suggests a discordant mixture of sounds that is unpleasant to hear."
+  },
+  {
+    "word": "Euphonic",
+    "pronunciation": "/yo͞oˈfänik/",
+    "origin": "From Greek 'euphonia' meaning 'sweet-voiced', from 'eu-' (good) + 'phone' (sound).",
+    "useCases": [
+      {
+        "context": "Language",
+        "example": "The poet chose euphonic words that flowed melodiously."
+      },
+      {
+        "context": "Music",
+        "example": "The euphonic harmonies created a sense of peace and tranquility."
+      }
+    ],
+    "feeling": "Pleasing, melodious, and harmonious. This word suggests sounds that are pleasant and agreeable to the ear."
+  },
+  {
+    "word": "Nebulous",
+    "pronunciation": "/ˈnebyələs/",
+    "origin": "From Latin 'nebulosus' meaning 'misty, cloudy', from 'nebula' (mist, cloud).",
+    "useCases": [
+      {
+        "context": "Ideas",
+        "example": "The plan was still nebulous and needed more detail."
+      },
+      {
+        "context": "Astronomy",
+        "example": "The nebular cloud glowed in the distant galaxy."
+      }
+    ],
+    "feeling": "Unclear, vague, and hazy. This word suggests something indistinct or not clearly defined."
+  },
+  {
+    "word": "Lucid",
+    "pronunciation": "/ˈlo͞osid/",
+    "origin": "From Latin 'lucidus' meaning 'clear, bright', from 'lucere' (to shine).",
+    "useCases": [
+      {
+        "context": "Writing",
+        "example": "Her lucid explanation helped everyone understand the complex topic."
+      },
+      {
+        "context": "Dreams",
+        "example": "In a lucid dream, you're aware that you're dreaming."
+      }
+    ],
+    "feeling": "Clear, bright, and understandable. This word suggests clarity, brightness, and easy comprehension."
+  },
+  {
+    "word": "Auspicious",
+    "pronunciation": "/ôˈspiSHəs/",
+    "origin": "From Latin 'auspicium' meaning 'divination by observing birds', from 'avis' (bird) + 'specere' (to look). A favorable omen from birds was considered auspicious.",
+    "useCases": [
+      {
+        "context": "Beginnings",
+        "example": "The sunny weather was an auspicious start to the wedding day."
+      },
+      {
+        "context": "Events",
+        "example": "The successful launch was an auspicious beginning for the company."
+      }
+    ],
+    "feeling": "Favorable, promising, and fortunate. This word suggests good omens and positive prospects."
+  },
+  {
+    "word": "Ominous",
+    "pronunciation": "/ˈämənəs/",
+    "origin": "From Latin 'ominosus' meaning 'full of foreboding', from 'omen' (portent, sign).",
+    "useCases": [
+      {
+        "context": "Weather",
+        "example": "The ominous clouds suggested a storm was approaching."
+      },
+      {
+        "context": "Events",
+        "example": "The silence was ominous, indicating something was wrong."
+      }
+    ],
+    "feeling": "Threatening, foreboding, and menacing. This word suggests something that portends evil or harm."
+  },
+  {
+    "word": "Gregarious",
+    "pronunciation": "/ɡriˈɡerēəs/",
+    "origin": "From Latin 'gregarius' meaning 'belonging to a flock', from 'grex' (flock, herd).",
+    "useCases": [
+      {
+        "context": "Personality",
+        "example": "His gregarious nature made him popular at parties."
+      },
+      {
+        "context": "Biology",
+        "example": "Penguins are gregarious animals, living in large colonies."
+      }
+    ],
+    "feeling": "Sociable, outgoing, and friendly. This word suggests someone who enjoys and seeks out company."
+  },
+  {
+    "word": "Reticent",
+    "pronunciation": "/ˈretəsənt/",
+    "origin": "From Latin 'reticens' meaning 'keeping silent', from 're-' (back) + 'tacere' (to be silent).",
+    "useCases": [
+      {
+        "context": "Communication",
+        "example": "She was reticent about discussing her personal problems."
+      },
+      {
+        "context": "Personality",
+        "example": "The reticent student rarely participated in class discussions."
+      }
+    ],
+    "feeling": "Reserved, quiet, and reluctant. This word suggests someone who is not inclined to speak freely."
+  },
+  {
+    "word": "Exquisite",
+    "pronunciation": "/ikˈskwizit/",
+    "origin": "From Latin 'exquisitus' meaning 'carefully sought out', from 'exquirere' (to seek out), from 'ex-' (out) + 'quaerere' (to seek).",
+    "useCases": [
+      {
+        "context": "Beauty",
+        "example": "The exquisite jewelry sparkled in the display case."
+      },
+      {
+        "context": "Pain",
+        "example": "The patient described an exquisite pain that worsened with movement."
+      }
+    ],
+    "feeling": "Beautiful, refined, and delicate. This word suggests something of rare beauty and fine quality."
+  },
+  {
+    "word": "Taciturn",
+    "pronunciation": "/ˈtasəˌtərn/",
+    "origin": "From Latin 'taciturnus' meaning 'silent', from 'tacere' (to be silent).",
+    "useCases": [
+      {
+        "context": "Personality",
+        "example": "The taciturn old man rarely spoke, but when he did, everyone listened."
+      },
+      {
+        "context": "Response",
+        "example": "His taciturn reply left much unsaid."
+      }
+    ],
+    "feeling": "Reserved, quiet, and uncommunicative. This word suggests someone who is habitually silent or uncommunicative."
+  },
+  {
+    "word": "Volatile",
+    "pronunciation": "/ˈvälətl/",
+    "origin": "From Latin 'volatilis' meaning 'flying', from 'volare' (to fly). Originally referring to substances that evaporate quickly.",
+    "useCases": [
+      {
+        "context": "Chemistry",
+        "example": "Gasoline is a volatile substance that evaporates quickly."
+      },
+      {
+        "context": "Markets",
+        "example": "The stock market was highly volatile during the crisis."
+      }
+    ],
+    "feeling": "Unstable, changeable, and explosive. This word suggests something that can change rapidly and unpredictably."
+  },
+  {
+    "word": "Stoic",
+    "pronunciation": "/ˈstōik/",
+    "origin": "From Greek 'stoa' (porch), referring to the Stoa Poikile in Athens where Zeno taught. Stoics believed in accepting fate without complaint.",
+    "useCases": [
+      {
+        "context": "Endurance",
+        "example": "She remained stoic despite facing multiple challenges."
+      },
+      {
+        "context": "Philosophy",
+        "example": "Stoic philosophy teaches acceptance of what cannot be changed."
+      }
+    ],
+    "feeling": "Calm, unemotional, and enduring. This word suggests someone who accepts hardships without complaint."
+  },
+  {
+    "word": "Eloquent",
+    "pronunciation": "/ˈeləkwənt/",
+    "origin": "From Latin 'eloquens' meaning 'speaking out', from 'e-' (out) + 'loqui' (to speak).",
+    "useCases": [
+      {
+        "context": "Speech",
+        "example": "His eloquent defense of human rights inspired the crowd."
+      },
+      {
+        "context": "Art",
+        "example": "The painting was an eloquent expression of grief."
+      }
+    ],
+    "feeling": "Articulate, expressive, and moving. This word suggests powerful and beautiful expression."
+  },
+  {
+    "word": "Ambivalent",
+    "pronunciation": "/amˈbivələnt/",
+    "origin": "From German 'ambivalent', from Latin 'ambo' (both) + 'valentia' (strength). Coined by Swiss psychiatrist Eugen Bleuler in 1910.",
+    "useCases": [
+      {
+        "context": "Emotions",
+        "example": "She felt ambivalent about the promotion—excited but also anxious about the new responsibilities."
+      },
+      {
+        "context": "Opinions",
+        "example": "Public opinion was ambivalent about the proposed policy changes."
+      }
+    ],
+    "feeling": "Mixed, conflicted, and uncertain. This word suggests having contradictory feelings or attitudes simultaneously."
+  },
+  {
+    "word": "Benevolent",
+    "pronunciation": "/bəˈnevələnt/",
+    "origin": "From Latin 'benevolens' meaning 'wishing well', from 'bene' (well) + 'volens' (wishing).",
+    "useCases": [
+      {
+        "context": "Leadership",
+        "example": "The benevolent ruler was loved by all his subjects."
+      },
+      {
+        "context": "Organizations",
+        "example": "The benevolent society provided aid to families in need."
+      }
+    ],
+    "feeling": "Kind, generous, and well-meaning. This word conveys genuine care and goodwill."
+  },
+  {
+    "word": "Clandestine",
+    "pronunciation": "/klanˈdestən/",
+    "origin": "From Latin 'clandestinus' meaning 'secret', from 'clam' (secretly).",
+    "useCases": [
+      {
+        "context": "Meetings",
+        "example": "The rebels held clandestine meetings in abandoned warehouses."
+      },
+      {
+        "context": "Operations",
+        "example": "The spy engaged in clandestine activities to gather intelligence."
+      }
+    ],
+    "feeling": "Secret, hidden, and furtive. This word suggests something done in secret, often for illicit purposes."
+  },
+  {
+    "word": "Diligent",
+    "pronunciation": "/ˈdiləjənt/",
+    "origin": "From Latin 'diligens' meaning 'attentive, careful', from 'diligere' (to value highly, to love).",
+    "useCases": [
+      {
+        "context": "Work",
+        "example": "The diligent student studied every night and earned top grades."
+      },
+      {
+        "context": "Research",
+        "example": "After diligent investigation, the detective solved the case."
+      }
+    ],
+    "feeling": "Hard-working, careful, and persistent. This word suggests steady, earnest effort and attention to detail."
+  },
+  {
+    "word": "Eloquent",
+    "pronunciation": "/ˈeləkwənt/",
+    "origin": "From Latin 'eloquens' meaning 'speaking out', from 'e-' (out) + 'loqui' (to speak).",
+    "useCases": [
+      {
+        "context": "Oratory",
+        "example": "The eloquent speaker moved the audience to tears."
+      },
+      {
+        "context": "Writing",
+        "example": "Her eloquent prose captured the essence of the human experience."
+      }
+    ],
+    "feeling": "Articulate, fluent, and expressive. This word suggests clear, powerful, and beautifully expressed communication."
+  },
+  {
+    "word": "Fastidious",
+    "pronunciation": "/faˈstidēəs/",
+    "origin": "From Latin 'fastidiosus' meaning 'squeamish, disdainful', from 'fastidium' (disgust, loathing).",
+    "useCases": [
+      {
+        "context": "Cleanliness",
+        "example": "The fastidious housekeeper insisted on spotless surfaces."
+      },
+      {
+        "context": "Standards",
+        "example": "She was fastidious about grammar and punctuation in her writing."
+      }
+    ],
+    "feeling": "Meticulous, particular, and hard to please. This word suggests being very attentive to accuracy and detail, sometimes excessively so."
+  },
+  {
+    "word": "Gregarious",
+    "pronunciation": "/ɡriˈɡerēəs/",
+    "origin": "From Latin 'gregarius' meaning 'belonging to a flock', from 'grex' (flock, herd).",
+    "useCases": [
+      {
+        "context": "Social behavior",
+        "example": "Her gregarious personality made her the life of every party."
+      },
+      {
+        "context": "Biology",
+        "example": "Lions are gregarious animals, living in prides."
+      }
+    ],
+    "feeling": "Sociable, outgoing, and fond of company. This word suggests someone who thrives in social situations."
+  },
+  {
+    "word": "Hedonistic",
+    "pronunciation": "/ˌhēdəˈnistik/",
+    "origin": "From Greek 'hedone' meaning 'pleasure'. Hedonism is the ethical theory that pleasure is the highest good.",
+    "useCases": [
+      {
+        "context": "Lifestyle",
+        "example": "His hedonistic lifestyle focused on immediate pleasures without concern for consequences."
+      },
+      {
+        "context": "Philosophy",
+        "example": "Ancient Epicurean philosophy has been described as hedonistic, though it emphasized moderation."
+      }
+    ],
+    "feeling": "Pleasure-seeking, self-indulgent, and sensual. This word suggests a pursuit of pleasure as the primary goal."
+  },
+  {
+    "word": "Idyllic",
+    "pronunciation": "/īˈdilik/",
+    "origin": "From Greek 'eidyllion' meaning 'little picture' or 'short poem'. Refers to idealized pastoral scenes.",
+    "useCases": [
+      {
+        "context": "Settings",
+        "example": "The idyllic countryside provided the perfect backdrop for their vacation."
+      },
+      {
+        "context": "Relationships",
+        "example": "Their idyllic marriage was envied by many."
+      }
+    ],
+    "feeling": "Perfect, peaceful, and idealized. This word suggests an idealized, picturesque, and blissfully happy scene."
+  },
+  {
+    "word": "Jubilant",
+    "pronunciation": "/ˈjo͞obələnt/",
+    "origin": "From Latin 'jubilare' meaning 'to shout for joy', originally referring to the joyful shouts of shepherds.",
+    "useCases": [
+      {
+        "context": "Celebration",
+        "example": "The jubilant crowd erupted in cheers when their team won."
+      },
+      {
+        "context": "Achievement",
+        "example": "She was jubilant after receiving the scholarship."
+      }
+    ],
+    "feeling": "Joyful, triumphant, and exultant. This word conveys great joy and celebration."
+  },
+  {
+    "word": "Kaleidoscopic",
+    "pronunciation": "/kəˌlīdəˈskäpik/",
+    "origin": "From Greek 'kalos' (beautiful) + 'eidos' (form) + 'skopein' (to look at). A kaleidoscope creates changing patterns of colored glass.",
+    "useCases": [
+      {
+        "context": "Visual description",
+        "example": "The kaleidoscopic display of autumn leaves created a breathtaking scene."
+      },
+      {
+        "context": "Complexity",
+        "example": "The novel presented a kaleidoscopic view of modern society."
+      }
+    ],
+    "feeling": "Colorful, ever-changing, and complex. This word suggests a continuously shifting pattern of colors, images, or elements."
+  },
+  {
+    "word": "Laconic",
+    "pronunciation": "/ləˈkänik/",
+    "origin": "From Greek 'Lakonikos' meaning 'Laconian' (from Laconia, the region of Sparta). Spartans were known for their brief, terse speech.",
+    "useCases": [
+      {
+        "context": "Communication",
+        "example": "His laconic reply of 'Perhaps' left everyone wondering."
+      },
+      {
+        "context": "Style",
+        "example": "Hemingway's laconic writing style influenced generations of authors."
+      }
+    ],
+    "feeling": "Brief, terse, and concise. This word suggests using few words, often with powerful effect."
+  },
+  {
+    "word": "Magnanimous",
+    "pronunciation": "/maɡˈnanəməs/",
+    "origin": "From Latin 'magnanimus' meaning 'great-souled', from 'magnus' (great) + 'animus' (soul, spirit).",
+    "useCases": [
+      {
+        "context": "Forgiveness",
+        "example": "Despite the harsh criticism, she was magnanimous in her response."
+      },
+      {
+        "context": "Generosity",
+        "example": "The magnanimous donor contributed millions to the charity."
+      }
+    ],
+    "feeling": "Noble, generous, and big-hearted. This word conveys graciousness and the ability to rise above pettiness."
+  },
+  {
+    "word": "Nefarious",
+    "pronunciation": "/nəˈferēəs/",
+    "origin": "From Latin 'nefarius' meaning 'impious, abominable', from 'nefas' (crime, sin), from 'ne-' (not) + 'fas' (divine law).",
+    "useCases": [
+      {
+        "context": "Crime",
+        "example": "The criminal was involved in nefarious activities that shocked the community."
+      },
+      {
+        "context": "Intentions",
+        "example": "The villain had nefarious plans to take over the city."
+      }
+    ],
+    "feeling": "Wicked, evil, and criminal. This word suggests something extremely wicked or villainous."
+  },
+  {
+    "word": "Obfuscate",
+    "pronunciation": "/ˈäbfəˌskāt/",
+    "origin": "From Latin 'obfuscare' meaning 'to darken', from 'ob-' (over) + 'fuscus' (dark).",
+    "useCases": [
+      {
+        "context": "Communication",
+        "example": "The politician tried to obfuscate the issue with confusing terminology."
+      },
+      {
+        "context": "Writing",
+        "example": "Legal documents often obfuscate simple concepts with complex language."
+      }
+    ],
+    "feeling": "Confusing, unclear, and deliberately obscure. This word suggests making something unnecessarily complex or unclear."
+  },
+  {
+    "word": "Pristine",
+    "pronunciation": "/ˈpristēn/",
+    "origin": "From Latin 'pristinus' meaning 'former, original', possibly from 'prior' (earlier). Evolved to mean 'clean and fresh as if new'.",
+    "useCases": [
+      {
+        "context": "Condition",
+        "example": "The vintage car was in pristine condition, as if never driven."
+      },
+      {
+        "context": "Nature",
+        "example": "They hiked to a pristine lake untouched by human development."
+      }
+    ],
+    "feeling": "Pure, clean, and unspoiled. This word suggests something in its original, perfect condition."
+  },
+  {
+    "word": "Quixotic",
+    "pronunciation": "/kwikˈsätik/",
+    "origin": "From Don Quixote, the idealistic hero of Miguel de Cervantes' novel, who pursued impractical romantic ideals.",
+    "useCases": [
+      {
+        "context": "Ideals",
+        "example": "His quixotic attempt to single-handedly save the environment inspired others."
+      },
+      {
+        "context": "Behavior",
+        "example": "The quixotic knight charged at windmills, believing them to be giants."
+      }
+    ],
+    "feeling": "Idealistic, impractical, and romantic. This word suggests noble but unrealistic pursuit of ideals."
+  },
+  {
+    "word": "Rambunctious",
+    "pronunciation": "/ramˈbəNG(k)SHəs/",
+    "origin": "Possibly an alteration of 'rumbustious', itself possibly from 'robustious' (boisterous, robust). First recorded in American English in the 1800s.",
+    "useCases": [
+      {
+        "context": "Behavior",
+        "example": "The rambunctious children raced through the playground."
+      },
+      {
+        "context": "Energy",
+        "example": "The puppy's rambunctious energy exhausted its owners."
+      }
+    ],
+    "feeling": "Boisterous, energetic, and rowdy. This word suggests uncontrolled, exuberant energy and noise."
+  },
+  {
+    "word": "Serendipity",
+    "pronunciation": "/ˌserənˈdipitē/",
+    "origin": "Coined by Horace Walpole in 1754, derived from the Persian fairy tale 'The Three Princes of Serendip' (Serendip was the old name for Sri Lanka). The princes made discoveries by accident and sagacity.",
+    "useCases": [
+      {
+        "context": "Discovery",
+        "example": "Finding your dream job through a chance conversation is pure serendipity."
+      },
+      {
+        "context": "Science",
+        "example": "Many scientific breakthroughs happen through serendipity rather than planning."
+      }
+    ],
+    "feeling": "Joyful, magical, and delightful. This word evokes pleasant surprise and unexpected good fortune."
+  },
+  {
+    "word": "Tranquil",
+    "pronunciation": "/ˈtraNGkwəl/",
+    "origin": "From Latin 'tranquillus' meaning 'calm, quiet', possibly related to 'trans-' (across) + 'quies' (rest).",
+    "useCases": [
+      {
+        "context": "Environment",
+        "example": "The tranquil garden provided a peaceful escape from the city noise."
+      },
+      {
+        "context": "State of mind",
+        "example": "After meditation, she felt completely tranquil."
+      }
+    ],
+    "feeling": "Calm, peaceful, and serene. This word suggests a state of quiet and peaceful calm."
+  },
+  {
+    "word": "Ubiquitous",
+    "pronunciation": "/yo͞oˈbikwətəs/",
+    "origin": "From Latin 'ubique' meaning 'everywhere', from 'ubi' (where).",
+    "useCases": [
+      {
+        "context": "Technology",
+        "example": "Mobile phones have become ubiquitous in modern life."
+      },
+      {
+        "context": "Nature",
+        "example": "Dandelions are ubiquitous in springtime meadows."
+      }
+    ],
+    "feeling": "Everywhere, omnipresent, and pervasive. This word suggests something so common it's found everywhere."
+  },
+  {
+    "word": "Venerable",
+    "pronunciation": "/ˈvenərəbəl/",
+    "origin": "From Latin 'venerabilis' meaning 'worthy of respect', from 'venerari' (to worship, revere).",
+    "useCases": [
+      {
+        "context": "Age and respect",
+        "example": "The venerable professor had taught at the university for fifty years."
+      },
+      {
+        "context": "Institutions",
+        "example": "The venerable institution had a long history of excellence."
+      }
+    ],
+    "feeling": "Respected, honored, and worthy of reverence. This word suggests something deserving great respect due to age, wisdom, or character."
+  },
+  {
+    "word": "Wistful",
+    "pronunciation": "/ˈwistfəl/",
+    "origin": "Possibly from obsolete 'wistly' meaning 'attentively', or from 'whist' (silent, still).",
+    "useCases": [
+      {
+        "context": "Emotion",
+        "example": "She looked wistful as she recalled her childhood summers."
+      },
+      {
+        "context": "Longing",
+        "example": "His wistful expression showed he missed his homeland."
+      }
+    ],
+    "feeling": "Nostalgic, yearning, and melancholic. This word suggests a gentle sadness tinged with longing."
+  },
+  {
+    "word": "Xenophobic",
+    "pronunciation": "/ˌzenəˈfōbik/",
+    "origin": "From Greek 'xenos' (stranger, foreigner) + 'phobos' (fear).",
+    "useCases": [
+      {
+        "context": "Attitudes",
+        "example": "Xenophobic policies isolate countries from global cooperation."
+      },
+      {
+        "context": "Behavior",
+        "example": "The xenophobic comments revealed deep-seated prejudices."
+      }
+    ],
+    "feeling": "Fearful, prejudiced, and hostile. This word suggests an irrational fear or hatred of foreigners or strangers."
+  },
+  {
+    "word": "Yearning",
+    "pronunciation": "/ˈyərniNG/",
+    "origin": "From Old English 'giernan' meaning 'to strive, be eager for', related to German 'gern' (gladly, willingly).",
+    "useCases": [
+      {
+        "context": "Desire",
+        "example": "She felt a deep yearning to return to her childhood home."
+      },
+      {
+        "context": "Longing",
+        "example": "The song expressed a yearning for lost love."
+      }
+    ],
+    "feeling": "Longing, wistful, and deeply desiring. This word suggests an intense, persistent longing or desire."
+  },
+  {
+    "word": "Zealous",
+    "pronunciation": "/ˈzeləs/",
+    "origin": "From Greek 'zelos' (zeal, jealousy) through Latin 'zelus'. Originally meant 'jealous', evolved to mean 'fervent'.",
+    "useCases": [
+      {
+        "context": "Dedication",
+        "example": "The zealous activist worked tirelessly for environmental protection."
+      },
+      {
+        "context": "Enthusiasm",
+        "example": "She was a zealous supporter of the local theater company."
+      }
+    ],
+    "feeling": "Passionate, fervent, and enthusiastic. This word suggests intense devotion and enthusiasm for a cause or goal."
+  },
+  {
+    "word": "Abstruse",
+    "pronunciation": "/abˈstro͞os/",
+    "origin": "From Latin 'abstrusus' meaning 'concealed', from 'abstrudere' (to push away, conceal).",
+    "useCases": [
+      {
+        "context": "Academic",
+        "example": "The abstruse mathematical theory was difficult for students to grasp."
+      },
+      {
+        "context": "Philosophy",
+        "example": "He wrote abstruse essays that few could understand."
+      }
+    ],
+    "feeling": "Complex, difficult, and obscure. This word suggests something hard to understand, often intentionally so."
+  },
+  {
+    "word": "Acumen",
+    "pronunciation": "/əˈkyo͞omən/",
+    "origin": "From Latin 'acumen' meaning 'sharp point', from 'acuere' (to sharpen).",
+    "useCases": [
+      {
+        "context": "Business",
+        "example": "Her business acumen helped the company thrive."
+      },
+      {
+        "context": "Intelligence",
+        "example": "His political acumen was admired by both allies and opponents."
+      }
+    ],
+    "feeling": "Sharp, insightful, and discerning. This word suggests keen intelligence and good judgment."
+  },
+  {
+    "word": "Adroit",
+    "pronunciation": "/əˈdroit/",
+    "origin": "From French 'adroit' meaning 'right, skillful', from 'à droit' (to the right, properly).",
+    "useCases": [
+      {
+        "context": "Skill",
+        "example": "The adroit surgeon completed the operation flawlessly."
+      },
+      {
+        "context": "Diplomacy",
+        "example": "Her adroit handling of the crisis prevented conflict."
+      }
+    ],
+    "feeling": "Skillful, clever, and nimble. This word suggests deftness and mental agility."
+  },
+  {
+    "word": "Alacrity",
+    "pronunciation": "/əˈlakritē/",
+    "origin": "From Latin 'alacritas' meaning 'cheerfulness, eagerness', from 'alacer' (brisk, eager).",
+    "useCases": [
+      {
+        "context": "Response",
+        "example": "She accepted the invitation with alacrity."
+      },
+      {
+        "context": "Action",
+        "example": "The team responded with alacrity to the emergency."
+      }
+    ],
+    "feeling": "Eager, cheerful, and brisk. This word suggests enthusiastic promptness."
+  },
+  {
+    "word": "Amalgamate",
+    "pronunciation": "/əˈmalɡəˌmāt/",
+    "origin": "From Medieval Latin 'amalgamare' meaning 'to mix with mercury', from 'amalgama' (alloy of mercury).",
+    "useCases": [
+      {
+        "context": "Business",
+        "example": "The companies decided to amalgamate to increase efficiency."
+      },
+      {
+        "context": "Culture",
+        "example": "The festival amalgamated traditions from multiple countries."
+      }
+    ],
+    "feeling": "Unified, combined, and merged. This word suggests bringing different elements together."
+  },
+  {
+    "word": "Ameliorate",
+    "pronunciation": "/əˈmēlyəˌrāt/",
+    "origin": "From Latin 'melior' (better) through French 'améliorer'.",
+    "useCases": [
+      {
+        "context": "Conditions",
+        "example": "The new policies helped ameliorate poverty in the region."
+      },
+      {
+        "context": "Relations",
+        "example": "The apology helped ameliorate tensions between the groups."
+      }
+    ],
+    "feeling": "Improved, bettered, and enhanced. This word suggests making something better."
+  },
+  {
+    "word": "Amorphous",
+    "pronunciation": "/əˈmôrfəs/",
+    "origin": "From Greek 'amorphos' meaning 'shapeless', from 'a-' (without) + 'morphe' (form).",
+    "useCases": [
+      {
+        "context": "Shape",
+        "example": "The amorphous cloud drifted across the sky."
+      },
+      {
+        "context": "Ideas",
+        "example": "His plans were still amorphous and needed structure."
+      }
+    ],
+    "feeling": "Shapeless, formless, and undefined. This word suggests something lacking clear form or structure."
+  },
+  {
+    "word": "Anachronism",
+    "pronunciation": "/əˈnakrəˌnizəm/",
+    "origin": "From Greek 'anachronismos' meaning 'against time', from 'ana-' (against) + 'chronos' (time).",
+    "useCases": [
+      {
+        "context": "Historical",
+        "example": "Wristwatches in a medieval film would be an anachronism."
+      },
+      {
+        "context": "Language",
+        "example": "Using 'thou' in modern conversation is an anachronism."
+      }
+    ],
+    "feeling": "Outdated, misplaced, and temporal. This word suggests something from a different time period."
+  },
+  {
+    "word": "Analogous",
+    "pronunciation": "/əˈnaləɡəs/",
+    "origin": "From Greek 'analogos' meaning 'proportional', from 'ana-' (according to) + 'logos' (ratio).",
+    "useCases": [
+      {
+        "context": "Comparison",
+        "example": "The structure of an atom is analogous to the solar system."
+      },
+      {
+        "context": "Relationships",
+        "example": "The situation was analogous to what happened last year."
+      }
+    ],
+    "feeling": "Similar, comparable, and parallel. This word suggests a meaningful similarity or correspondence."
+  },
+  {
+    "word": "Anathema",
+    "pronunciation": "/əˈnaTHəmə/",
+    "origin": "From Greek 'anathema' meaning 'something dedicated' or 'cursed', originally a votive offering.",
+    "useCases": [
+      {
+        "context": "Religion",
+        "example": "The heresy was declared anathema by the church."
+      },
+      {
+        "context": "Personal",
+        "example": "Dishonesty was anathema to her moral code."
+      }
+    ],
+    "feeling": "Detestable, abhorrent, and cursed. This word suggests something strongly disliked or condemned."
+  },
+  {
+    "word": "Ancillary",
+    "pronunciation": "/ˈansəˌlerē/",
+    "origin": "From Latin 'ancillaris' meaning 'of a maidservant', from 'ancilla' (maidservant).",
+    "useCases": [
+      {
+        "context": "Services",
+        "example": "The hospital provided ancillary services like counseling."
+      },
+      {
+        "context": "Support",
+        "example": "Ancillary equipment was needed for the main operation."
+      }
+    ],
+    "feeling": "Subordinate, supporting, and supplementary. This word suggests something that supports but is not primary."
+  },
+  {
+    "word": "Anomalous",
+    "pronunciation": "/əˈnämələs/",
+    "origin": "From Greek 'anomalos' meaning 'irregular', from 'a-' (not) + 'homalos' (even, regular).",
+    "useCases": [
+      {
+        "context": "Data",
+        "example": "Scientists discovered an anomalous reading that needed investigation."
+      },
+      {
+        "context": "Behavior",
+        "example": "His anomalous response puzzled everyone in the room."
+      }
+    ],
+    "feeling": "Irregular, abnormal, and unusual. This word suggests something that deviates from the norm."
+  },
+  {
+    "word": "Antediluvian",
+    "pronunciation": "/ˌantēdəˈlo͞ovēən/",
+    "origin": "From Latin 'ante' (before) + 'diluvium' (flood), referring to the time before the Biblical flood.",
+    "useCases": [
+      {
+        "context": "Age",
+        "example": "The antediluvian tree had stood for thousands of years."
+      },
+      {
+        "context": "Ideas",
+        "example": "His antediluvian views on gender roles were outdated."
+      }
+    ],
+    "feeling": "Ancient, outdated, and extremely old. This word suggests something from a very distant past."
+  },
+  {
+    "word": "Antipathy",
+    "pronunciation": "/anˈtipəTHē/",
+    "origin": "From Greek 'antipatheia' meaning 'opposition of feeling', from 'anti-' (against) + 'pathos' (feeling).",
+    "useCases": [
+      {
+        "context": "Emotion",
+        "example": "She felt deep antipathy toward injustice."
+      },
+      {
+        "context": "Relations",
+        "example": "There was mutual antipathy between the two leaders."
+      }
+    ],
+    "feeling": "Hostile, averse, and strongly opposed. This word suggests a deep-seated dislike or aversion."
+  },
+  {
+    "word": "Aplomb",
+    "pronunciation": "/əˈpläm/",
+    "origin": "From French 'aplomb' meaning 'perpendicularity, self-possession', from 'à plomb' (according to the plummet).",
+    "useCases": [
+      {
+        "context": "Composure",
+        "example": "She handled the crisis with remarkable aplomb."
+      },
+      {
+        "context": "Confidence",
+        "example": "The speaker answered difficult questions with aplomb."
+      }
+    ],
+    "feeling": "Confident, self-assured, and composed. This word suggests poise and self-confidence."
+  },
+  {
+    "word": "Apocryphal",
+    "pronunciation": "/əˈpäkrəfəl/",
+    "origin": "From Greek 'apokryphos' meaning 'hidden, obscure', from 'apo-' (away) + 'kryptein' (to hide).",
+    "useCases": [
+      {
+        "context": "Stories",
+        "example": "The apocryphal tale had been told so many times it seemed true."
+      },
+      {
+        "context": "Texts",
+        "example": "The apocryphal gospels are not included in the canonical Bible."
+      }
+    ],
+    "feeling": "Questionable, dubious, and unverified. This word suggests something of doubtful authenticity."
+  },
+  {
+    "word": "Apposite",
+    "pronunciation": "/ˈapəzit/",
+    "origin": "From Latin 'appositus' meaning 'placed near, applied', from 'apponere' (to place near).",
+    "useCases": [
+      {
+        "context": "Relevance",
+        "example": "Her comment was particularly apposite to the discussion."
+      },
+      {
+        "context": "Examples",
+        "example": "He provided an apposite example that clarified his point."
+      }
+    ],
+    "feeling": "Relevant, appropriate, and fitting. This word suggests something well-suited and pertinent."
+  },
+  {
+    "word": "Arcane",
+    "pronunciation": "/ärˈkān/",
+    "origin": "From Latin 'arcanus' meaning 'secret, hidden', from 'arca' (chest, box).",
+    "useCases": [
+      {
+        "context": "Knowledge",
+        "example": "The arcane rituals were known only to the initiates."
+      },
+      {
+        "context": "Language",
+        "example": "The text was written in arcane symbols no one could decipher."
+      }
+    ],
+    "feeling": "Secret, mysterious, and esoteric. This word suggests knowledge accessible only to initiates."
+  },
+  {
+    "word": "Arduous",
+    "pronunciation": "/ˈärjo͞oəs/",
+    "origin": "From Latin 'arduus' meaning 'steep, difficult', related to 'ardere' (to burn).",
+    "useCases": [
+      {
+        "context": "Tasks",
+        "example": "The arduous journey through the mountains took weeks."
+      },
+      {
+        "context": "Work",
+        "example": "She completed the arduous task despite the challenges."
+      }
+    ],
+    "feeling": "Difficult, strenuous, and exhausting. This word suggests requiring great effort and endurance."
+  },
+  {
+    "word": "Ascetic",
+    "pronunciation": "/əˈsetik/",
+    "origin": "From Greek 'asketikos' meaning 'monkish, hermit-like', from 'askein' (to exercise, practice).",
+    "useCases": [
+      {
+        "context": "Lifestyle",
+        "example": "The ascetic monk lived with minimal possessions."
+      },
+      {
+        "context": "Philosophy",
+        "example": "Her ascetic approach to life rejected material comforts."
+      }
+    ],
+    "feeling": "Self-disciplined, austere, and simple. This word suggests rigorous self-denial and simplicity."
+  },
+  {
+    "word": "Assiduous",
+    "pronunciation": "/əˈsijo͞oəs/",
+    "origin": "From Latin 'assiduus' meaning 'sitting down to', from 'assidere' (to sit by, attend to).",
+    "useCases": [
+      {
+        "context": "Work",
+        "example": "Her assiduous attention to detail ensured high quality."
+      },
+      {
+        "context": "Study",
+        "example": "The assiduous student studied every night."
+      }
+    ],
+    "feeling": "Diligent, persistent, and careful. This word suggests constant, careful application."
+  },
+  {
+    "word": "Austere",
+    "pronunciation": "/ôˈstir/",
+    "origin": "From Greek 'austeros' meaning 'harsh, severe', from 'auein' (to dry, parch).",
+    "useCases": [
+      {
+        "context": "Style",
+        "example": "The austere architecture emphasized function over decoration."
+      },
+      {
+        "context": "Personality",
+        "example": "His austere manner intimidated some people."
+      }
+    ],
+    "feeling": "Severe, strict, and simple. This word suggests sternness and lack of luxury or decoration."
+  },
+  {
+    "word": "Avarice",
+    "pronunciation": "/ˈavəris/",
+    "origin": "From Latin 'avaritia' meaning 'greed', from 'avarus' (greedy), from 'avere' (to desire).",
+    "useCases": [
+      {
+        "context": "Behavior",
+        "example": "His avarice led him to exploit his workers."
+      },
+      {
+        "context": "Character",
+        "example": "The character's avarice was his tragic flaw."
+      }
+    ],
+    "feeling": "Greedy, covetous, and insatiable. This word suggests excessive desire for wealth."
+  },
+  {
+    "word": "Banal",
+    "pronunciation": "/bəˈnal/",
+    "origin": "From French 'banal' meaning 'commonplace', from 'ban' (proclamation, ban). Originally referred to something subject to feudal service.",
+    "useCases": [
+      {
+        "context": "Conversation",
+        "example": "The meeting was filled with banal small talk."
+      },
+      {
+        "context": "Writing",
+        "example": "The author's banal prose lacked originality."
+      }
+    ],
+    "feeling": "Commonplace, trite, and unoriginal. This word suggests something lacking freshness or originality."
+  },
+  {
+    "word": "Bellicose",
+    "pronunciation": "/ˈbeləˌkōs/",
+    "origin": "From Latin 'bellicosus' meaning 'warlike', from 'bellum' (war).",
+    "useCases": [
+      {
+        "context": "Foreign policy",
+        "example": "The bellicose rhetoric increased tensions between nations."
+      },
+      {
+        "context": "Personality",
+        "example": "His bellicose nature made him quick to argue."
+      }
+    ],
+    "feeling": "Aggressive, warlike, and combative. This word suggests a readiness to fight or quarrel."
+  },
+  {
+    "word": "Benign",
+    "pronunciation": "/bəˈnīn/",
+    "origin": "From Latin 'benignus' meaning 'kind, friendly', from 'bene' (well) + 'genus' (born).",
+    "useCases": [
+      {
+        "context": "Medical",
+        "example": "The doctor confirmed the tumor was benign."
+      },
+      {
+        "context": "Nature",
+        "example": "The benign climate was perfect for growing crops."
+      }
+    ],
+    "feeling": "Gentle, kind, and harmless. This word suggests something mild and not threatening."
+  },
+  {
+    "word": "Boisterous",
+    "pronunciation": "/ˈboist(ə)rəs/",
+    "origin": "From Middle English 'boistous' meaning 'rough, coarse', possibly from Old French 'boisteus' (lame, limping).",
+    "useCases": [
+      {
+        "context": "Behavior",
+        "example": "The boisterous children ran through the park."
+      },
+      {
+        "context": "Atmosphere",
+        "example": "The boisterous celebration lasted all night."
+      }
+    ],
+    "feeling": "Loud, energetic, and rowdy. This word suggests noisy, energetic, and cheerful behavior."
+  },
+  {
+    "word": "Bombastic",
+    "pronunciation": "/bämˈbastik/",
+    "origin": "From 'bombast', meaning 'cotton padding' used to stuff clothing, hence inflated language.",
+    "useCases": [
+      {
+        "context": "Speech",
+        "example": "The politician's bombastic rhetoric failed to impress voters."
+      },
+      {
+        "context": "Writing",
+        "example": "The author's bombastic style overwhelmed the simple story."
+      }
+    ],
+    "feeling": "Pompous, inflated, and grandiose. This word suggests overblown, pretentious language."
+  },
+  {
+    "word": "Bucolic",
+    "pronunciation": "/byo͞oˈkälik/",
+    "origin": "From Greek 'boukolikos' meaning 'pastoral', from 'boukolos' (cowherd), from 'bous' (cow).",
+    "useCases": [
+      {
+        "context": "Setting",
+        "example": "The bucolic countryside provided a peaceful retreat."
+      },
+      {
+        "context": "Literature",
+        "example": "The poet wrote bucolic verses about rural life."
+      }
+    ],
+    "feeling": "Rural, pastoral, and idyllic. This word suggests the peaceful charm of country life."
+  },
+  {
+    "word": "Cacophonous",
+    "pronunciation": "/kəˈkäfənəs/",
+    "origin": "From Greek 'kakophonia' meaning 'bad sound', from 'kakos' (bad) + 'phone' (sound).",
+    "useCases": [
+      {
+        "context": "Sound",
+        "example": "The cacophonous orchestra rehearsal was hard to endure."
+      },
+      {
+        "context": "City",
+        "example": "The cacophonous city streets were overwhelming."
+      }
+    ],
+    "feeling": "Harsh, discordant, and jarring. This word suggests unpleasant, discordant sounds."
+  },
+  {
+    "word": "Calamitous",
+    "pronunciation": "/kəˈlamətəs/",
+    "origin": "From Latin 'calamitosus' meaning 'disastrous', from 'calamitas' (disaster, misfortune).",
+    "useCases": [
+      {
+        "context": "Events",
+        "example": "The calamitous earthquake destroyed the city."
+      },
+      {
+        "context": "Consequences",
+        "example": "The decision had calamitous effects on the economy."
+      }
+    ],
+    "feeling": "Disastrous, catastrophic, and tragic. This word suggests severe misfortune or disaster."
+  },
+  {
+    "word": "Callous",
+    "pronunciation": "/ˈkaləs/",
+    "origin": "From Latin 'callosus' meaning 'hard-skinned', from 'callus' (hard skin).",
+    "useCases": [
+      {
+        "context": "Emotion",
+        "example": "His callous remarks hurt many people."
+      },
+      {
+        "context": "Behavior",
+        "example": "The callous treatment of workers sparked protests."
+      }
+    ],
+    "feeling": "Unfeeling, insensitive, and hard-hearted. This word suggests emotional hardness or indifference."
+  },
+  {
+    "word": "Candor",
+    "pronunciation": "/ˈkandər/",
+    "origin": "From Latin 'candor' meaning 'whiteness, brightness, sincerity', from 'candere' (to shine, be white).",
+    "useCases": [
+      {
+        "context": "Communication",
+        "example": "Her candor in the interview was refreshing."
+      },
+      {
+        "context": "Honesty",
+        "example": "I appreciate your candor about the situation."
+      }
+    ],
+    "feeling": "Honest, open, and frank. This word suggests sincere, straightforward expression."
+  },
+  {
+    "word": "Cathartic",
+    "pronunciation": "/kəˈTHärdik/",
+    "origin": "From Greek 'katharsis' meaning 'cleansing, purging', from 'kathairein' (to cleanse).",
+    "useCases": [
+      {
+        "context": "Emotion",
+        "example": "Writing about the experience was cathartic."
+      },
+      {
+        "context": "Art",
+        "example": "The play provided a cathartic experience for the audience."
+      }
+    ],
+    "feeling": "Cleansing, purging, and emotionally releasing. This word suggests emotional relief or purification."
+  },
+  {
+    "word": "Caustic",
+    "pronunciation": "/ˈkôstik/",
+    "origin": "From Greek 'kaustikos' meaning 'burning', from 'kaiein' (to burn).",
+    "useCases": [
+      {
+        "context": "Criticism",
+        "example": "Her caustic remarks offended many listeners."
+      },
+      {
+        "context": "Humor",
+        "example": "His caustic wit was both admired and feared."
+      }
+    ],
+    "feeling": "Sarcastic, biting, and corrosive. This word suggests sharp, harsh criticism or wit."
+  },
+  {
+    "word": "Cogent",
+    "pronunciation": "/ˈkōjənt/",
+    "origin": "From Latin 'cogens' meaning 'compelling', from 'cogere' (to compel, force together).",
+    "useCases": [
+      {
+        "context": "Arguments",
+        "example": "She presented a cogent argument that convinced everyone."
+      },
+      {
+        "context": "Reasoning",
+        "example": "His cogent analysis clarified the complex issue."
+      }
+    ],
+    "feeling": "Convincing, compelling, and clear. This word suggests clear, logical, and persuasive reasoning."
+  },
+  {
+    "word": "Commensurate",
+    "pronunciation": "/kəˈmensərət/",
+    "origin": "From Latin 'commensuratus' meaning 'measured together', from 'com-' (with) + 'mensura' (measure).",
+    "useCases": [
+      {
+        "context": "Compensation",
+        "example": "The salary should be commensurate with experience."
+      },
+      {
+        "context": "Response",
+        "example": "The punishment must be commensurate with the crime."
+      }
+    ],
+    "feeling": "Proportional, corresponding, and appropriate. This word suggests proper proportion or equivalence."
+  }
+]

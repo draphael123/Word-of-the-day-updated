@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Word of the Day</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Word of the Day</h1>
+            <p class="subtitle">Expand your vocabulary one word at a time</p>
+            <p class="date-display" id="dateDisplay"></p>
+        </header>
+
+        <main>
+            <div class="word-card">
+                <div class="word-header">
+                    <h2 class="word" id="word"></h2>
+                    <span class="pronunciation" id="pronunciation"></span>
+                </div>
+
+                <div class="word-details">
+                    <section class="detail-section">
+                        <h3>Origin</h3>
+                        <p id="origin"></p>
+                    </section>
+
+                    <section class="detail-section">
+                        <h3>Use Cases</h3>
+                        <div id="useCases"></div>
+                    </section>
+
+                    <section class="detail-section">
+                        <h3>How It Makes You Feel</h3>
+                        <p id="feeling"></p>
+                    </section>
+                </div>
+
+                <button class="next-word-btn" id="nextWordBtn" onclick="loadRandomWord()">
+                    View Another Word
+                </button>
+            </div>
+        </main>
+
+        <footer>
+            <p>Discover new words every day</p>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
