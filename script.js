@@ -48,10 +48,20 @@ function initializeWord() {
 function displayWord(word) {
     document.getElementById('word').textContent = word.word;
     document.getElementById('pronunciation').textContent = word.pronunciation;
+    
+    // Display meaning
+    const meaningElement = document.getElementById('meaning');
+    if (word.meaning) {
+        meaningElement.textContent = word.meaning;
+        meaningElement.style.display = 'block';
+    } else {
+        meaningElement.style.display = 'none';
+    }
+    
     document.getElementById('origin').textContent = word.origin;
     document.getElementById('feeling').textContent = word.feeling;
     
-    // Display use cases
+    // Display use cases with sentences
     const useCasesDiv = document.getElementById('useCases');
     if (Array.isArray(word.useCases)) {
         let html = '<ul>';

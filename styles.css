@@ -324,6 +324,17 @@ header {
     line-height: 1.9;
 }
 
+.meaning-text {
+    font-size: 1.3rem !important;
+    font-weight: 500;
+    color: var(--primary-color) !important;
+    padding: 15px;
+    background: linear-gradient(135deg, rgba(52, 152, 219, 0.08), rgba(231, 76, 60, 0.08));
+    border-radius: 8px;
+    border-left: 4px solid var(--secondary-color);
+    margin-bottom: 10px;
+}
+
 #useCases {
     font-size: 1.15rem;
     color: var(--text-color);
